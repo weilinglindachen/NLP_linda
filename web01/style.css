@@ -1,0 +1,17 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p {
+    color: navy;
+  }
+
+  #para1{
+    background-color: rgb(70, 43, 226);
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+  }
+
+#para2 {
+    padding-left: 30px;
+}
